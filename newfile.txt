@@ -1,3 +1,5 @@
 This is the home page shows product
 
-changes made by User2
+
+Amazing changes made by User1 and User2
+
